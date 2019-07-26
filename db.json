@@ -1,0 +1,66 @@
+{
+  "activities": [
+    {
+      "attachments": [],
+      "conversation": {
+        "id": "2e5c1ed1-98c1-11e9-ba34-0f4b1a811bae|livechat"
+      },
+      "from": {
+        "id": "8af2da50-9293-11e9-97d4-c5a6d0884c5d",
+        "name": "Bot",
+        "role": "bot"
+      },
+      "id": "498ec9d0-98c3-11e9-8a9f-3d75590d9a63",
+      "localTimestamp": "2019-06-27T12:06:53+02:00",
+      "locale": "",
+      "recipient": {
+        "id": "8359eb9d-be13-4caa-8a81-dddfa4601149",
+        "role": "user"
+      },
+      "text": "This is a text.\n\n ![This is an image](https://tetrapakbots1test.blob.core.windows.net/qna-images/development_2.png)\n\n **This is a bold text**, *This is an italic text* and [This is a link](https://thisisalink.com).",
+      "timestamp": "2019-06-27T10:06:53.164Z",
+      "type": "message"
+    },
+    {
+      "attachments": [
+        {
+          "content": {
+            "buttons": [
+              {
+                "title": "Button text 1",
+                "type": "postBack",
+                "value": "buttonText1"
+              },
+              {
+                "title": "Button text 2",
+                "type": "postBack",
+                "value": "buttonText2"
+              }
+            ],
+            "images": null,
+            "text": "This is a card with buttons",
+            "title": null
+          },
+          "contentType": "application/vnd.microsoft.card.hero"
+        }
+      ],
+      "conversation": {
+        "id": "2e5c1ed1-98c1-11e9-ba34-0f4b1a811bae|livechat"
+      },
+      "from": {
+        "id": "8af2da50-9293-11e9-97d4-c5a6d0884c5d",
+        "name": "Bot",
+        "role": "bot"
+      },
+      "id": "498ec9d0-98c3-11e9-8a9f-3d75590d9a63",
+      "localTimestamp": "2019-06-27T12:06:53+02:00",
+      "locale": "",
+      "recipient": {
+        "id": "8359eb9d-be13-4caa-8a81-dddfa4601149",
+        "role": "user"
+      },
+      "timestamp": "2019-06-27T10:06:53.164Z",
+      "type": "message"
+    }
+  ]
+}
